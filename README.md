@@ -1,3 +1,3 @@
 # Eyes
 ## Exercise on eyes
-<img src> = "Sunset.png" width = '300'/>
+<img src= "Sunset.png" width = '300'/>
